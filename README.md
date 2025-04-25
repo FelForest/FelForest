@@ -18,21 +18,46 @@
 
 ---
 
-## 🚀 Projects
+## Projects
 
--   🔗 [StampTourWithAniSaniParki](https://github.com/FelForest/StampTourWithAniSaniParki)  
-    안산 산업 역사 박물관 체험형 앱
+### Game Projects
+
+#### Unreal
+
+-   🔗 [AssetsProject](https://www.notion.so/BP-Project-1c21b2ce947c80629765daf1eb8f5943)  
+    언리얼 블루프린트로 만든 간단한 프로젝트
+
+#### Unity
+
+-   🔗 [KATANA-CODE](https://github.com/Dudung-Dudung/KATANA-CODE)  
+    VR을 이용한 리듬게임 프로젝트
+
+#### Console
+
 -   🔗 [ConsoleGame](https://github.com/FelForest/ConsoleGame)  
     콘솔로 만든 간단한 프로젝트
 -   🔗 [AStarAlgorithm](https://github.com/FelForest/Console-AStarAlgorithm)  
     학습용 `A*` 알고리즘 프로젝트
--   🔗 [AssetsProject](https://www.notion.so/BP-Project-1c21b2ce947c80629765daf1eb8f5943)  
-    언리얼 블루프린트로 만든 간단한 프로젝트
--   🔗 [MRFinialProject](https://github.com/FelForest/MRFinialProject)  
-    아폴로 11호 시뮬레이션 만들기
+
+---
+
+### 📱 Other Projects
+
+### Unity
+
 -   🔗 [MRMiddleProject](https://github.com/FelForest/MRMiddleProject)  
     중간고사 대체용 간단한 게임 프로젝트
--   🔗 [HoneyBee](https://github.com/FelForest/HoneyBee)  
-    VR을 이용한 꿀벌 체험
+-   🔗 [MRFinialProject](https://github.com/FelForest/MRFinialProject)  
+    아폴로 11호 시뮬레이션 만들기
+
+#### AR
+
 -   🔗 [AcademyModel](https://github.com/FelForest/AcademyModel)  
     AR을 이용한 프라모델에 맞는 배경 증강
+-   🔗 [StampTourWithAniSaniParki](https://github.com/FelForest/StampTourWithAniSaniParki)  
+    안산 산업 역사 박물관 체험형 앱
+
+#### VR
+
+-   🔗 [HoneyBee](https://github.com/FelForest/HoneyBee)  
+    VR을 이용한 꿀벌 체험
