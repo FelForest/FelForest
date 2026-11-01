@@ -7,8 +7,9 @@
 
 ## Contact
 
--   📧 Email: [Fel.Forest3910@gmail.com](mailto:Fel.Forest3910@gmail.com)
--   📝 Blog : [https://forest3910.tistory.com/](https://forest3910.tistory.com/)
+-    Email    : [Fel.Forest3910@gmail.com](mailto:Fel.Forest3910@gmail.com)
+-    Blog     : [https://forest3910.tistory.com/](https://forest3910.tistory.com/)
+-    Notion   : [https://antique-face-76f.notion.site/3fd1b2ce947c807cb733c07aa8b2a340]
 
 ---
 
@@ -43,6 +44,9 @@
 -   🔗 [StampTourWithAniSaniParki](https://github.com/FelForest/StampTourWithAniSaniParki)  
     안산 산업 역사 박물관 체험형 앱
 
+#### FanGame
+
+-   🔗 [Niru_Fan_Game](https://github.com/FelForest/STATUS_Niru_Fan_Game)
 
 ---
 
