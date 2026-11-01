@@ -9,7 +9,7 @@
 
 -    Email    : [Fel.Forest3910@gmail.com](mailto:Fel.Forest3910@gmail.com)
 -    Blog     : [https://forest3910.tistory.com/](https://forest3910.tistory.com/)
--    Notion   : [https://antique-face-76f.notion.site/3fd1b2ce947c807cb733c07aa8b2a340]
+-    Notion   : [Portfolio](https://antique-face-76f.notion.site/3fd1b2ce947c807cb733c07aa8b2a340)
 
 ---
 
